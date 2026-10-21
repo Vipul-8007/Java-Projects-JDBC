@@ -1,0 +1,9 @@
+# Compiled Java files
+*.class
+bin/
+
+# Local Eclipse workspace metadata
+.metadata/
+./classpath
+./project
+./settings
